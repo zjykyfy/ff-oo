@@ -1,10 +1,8 @@
 # Compiled source #
 ###################
 *.txt
-*.github/workflows
+*.yml
 *.md
-*.github/
-*github/
 *.com
 *.class
 *.dll
@@ -18,10 +16,8 @@
 # it's better to unpack these files and commit the raw source
 # git has its own built in compression methods
 *.txt
-*.github/workflows
+*.yml
 *.md
-*.github/
-*github/
 *.7z
 *.dmg
 *.gz
@@ -34,10 +30,8 @@
 # Logs and databases #
 ######################
 *.txt
-*.github/workflows
+*.yml
 *.md
-*.github/
-*github/
 *.log
 *.sql
 *.sqlite
@@ -45,10 +39,8 @@
 # OS generated files #
 ######################
 *.txt
-*.github/workflows
+*.yml
 *.md
-*.github/
-*github/
 .DS_Store
 .DS_Store?
 ._*
