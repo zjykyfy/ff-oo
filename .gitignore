@@ -3,10 +3,8 @@
 *.txt
 *.github/workflows
 *.md
-*.py
 *.github/
 *github/
-*.yml
 *.com
 *.class
 *.dll
@@ -22,10 +20,8 @@
 *.txt
 *.github/workflows
 *.md
-*.py
 *.github/
 *github/
-*.yml
 *.7z
 *.dmg
 *.gz
@@ -40,10 +36,8 @@
 *.txt
 *.github/workflows
 *.md
-*.py
 *.github/
 *github/
-*.yml
 *.log
 *.sql
 *.sqlite
@@ -53,10 +47,8 @@
 *.txt
 *.github/workflows
 *.md
-*.py
 *.github/
 *github/
-*.yml
 .DS_Store
 .DS_Store?
 ._*
