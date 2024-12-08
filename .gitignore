@@ -74,3 +74,9 @@ CNAME
 README.md
 *.fo.yangfeiyue.us.kg
 fo.yangfeiyue.us.kg
+
+# Ignore CNAME file
+CNAME
+
+# Ignore CNAME files globally
+*.CNAME
