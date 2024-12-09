@@ -9,7 +9,7 @@
 *.o
 *.so
 CNAME
-README.md
+.md
 *.yangfeiyue.us.kg
 
 
