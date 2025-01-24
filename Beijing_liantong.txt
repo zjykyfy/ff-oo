@@ -1,3 +1,11 @@
+a.beijing.watchit.net.cn:4022
+b.aliyun.beijing.watchit.net.cn:4022
+b.beijing.watchit.net.cn:4022
+beijing.watchit.net.cn:4022
+aliyun.beijing.watchit.net.cn:4022
+a.aliyun.beijing.watchit.net.cn:4022
+114.254.38.140:18888
+123.120.239.49:4022
 222.129.37.178:8686
 123.117.237.15:8680
 123.117.160.2:8118
